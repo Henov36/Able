@@ -148,7 +148,7 @@ body .header__blue-hidden-menu {
   width: 100%;
   overflow: hidden;
   height: 855px;
-  transform: translateY(-100%);
+  transform: translateY(-150%);
   transition: 300ms;
 }
 body .blue__active__mode {
