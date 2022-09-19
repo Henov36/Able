@@ -147,7 +147,7 @@ body .header__blue-hidden-menu {
   z-index: 100;
   width: 100%;
   overflow: hidden;
-  height: calc(100vh - 71px);
+  height: 855px;
   transform: translateY(-100%);
   transition: 300ms;
 }
@@ -279,7 +279,7 @@ body .bottom__blue-hidden-list li:not(:first-child) {
 }
 body .bottom__blue-hidden-list li {
   margin: 0px 10px 0px 10px;
-  padding: 0px 5px;
+  padding: 0px 5px 7px 5px;
   flex: 0 0 210px;
 }
 body .bottom__blue-hidden-list li:last-child {

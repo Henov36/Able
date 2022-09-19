@@ -237,7 +237,8 @@ body {
         z-index: 100;
         width: 100%;
         overflow: hidden;
-        height: calc(100vh - 71px);
+        height: 855px;
+        // border-bottom: solid 3px #C4FEF9;
         // visibility: hidden;
         transform: translateY(-100%);
         transition: 300ms;
@@ -454,7 +455,7 @@ body {
 
         li {
             margin: 0px 10px 0px 10px;
-            padding: 0px 5px;
+            padding: 0px 5px 7px 5px;
             flex: 0 0 210px;
         }
 
